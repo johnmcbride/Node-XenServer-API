@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "fast-xml-parser": "^3.2.4",
+    "xmldom": "^0.1.27",
+    "xmlrpc-lite": "^0.1.0",
+    "xpath": "^0.0.27"
+  },
+  "creds":{
+    "user": "enter your xenserveruser",
+    "pass":"enter your xenserverpassword" 
+  },
+  "xenserveraddress": "http://ipaddress"
+}
